@@ -1,0 +1,31 @@
+RecordCount: 21
+
+#Start
+Read,SD-9D-rs-heartbeating-realization
+Read,SD-9D-tu-parting-truelove,Parting
+Read,SD-9D-v-reunification,Reunification,Midbox
+#***
+#setup first lightning cycle
+   1,L,J
+   7,L
+#cycle 1 0-5
+   0,J
+#
+   5,L,D,X
+   3,L,U
+   6
+#cycle 2 0-9
+   4
+#for ultra chain through w
+Read,SD-9D-wx-noreturn-bottomless,Point of No Return,Cycle x03
+#lightning cycles
+#are different?
+#+2f
+   2
+Read,SD-9D-wx-noreturn-bottomless,Cycle x03 end,Cycle x12 lightning
+#+1f
+   1,L
+   1,R
+   1,R,J
+Read,SD-9D-wx-noreturn-bottomless,Cycle x12 end
+
